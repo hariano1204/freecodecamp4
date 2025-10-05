@@ -13,7 +13,6 @@
     "type": "git",
     "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
-  "author": "Tomás Saavedra"
-  
-
+  "author": "Tomás Saavedra",
+  "license": "MIT"
 }
